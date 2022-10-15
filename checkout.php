@@ -121,10 +121,7 @@ if($cart_query && $order_query){
                             }
                         }
                         
-                    //}
-                //}//else{
-                 //   header("location:".SITEURL.'empty-cart.php');
-                //}
+
             
             ?>
         </div>
